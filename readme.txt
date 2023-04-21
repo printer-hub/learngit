@@ -13,3 +13,4 @@ Creating a new branch is quick AND simple.
 Git can add merge.
 =======
 >>>>>>> 290415289d7dde1b594a76922a56647dd3bd77d4
+Git rebase learning.
