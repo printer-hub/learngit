@@ -10,3 +10,4 @@ Creating a new branch is qucik & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Git can add merge.
+I am realizing a new module when a urgent bug need to repair...
