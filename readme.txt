@@ -12,6 +12,3 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Git can add merge.
 I am realizing a new module when a urgent bug need to repair...
-=======
-Github remote clone test。
->>>>>>> 0411dd556f4d4d7b23182c2adb8a7ce6695e46f7
